@@ -22,8 +22,8 @@
     <color name="theme_primary_dark">#04561A</color>
     <color name="theme_accent">#04561A</color>
     <color name="ltgray">#ffe0e0e0</color>
-    <color name="color_Primary">#D81159</color>
-    <color name="color_primary_dark">#8F2D56</color>
-    <color name="color_accent">#FFBC42</color>
+    <color name="color_Primary">#00BCD4</color>
+    <color name="color_primary_dark">#0097A7</color>
+    <color name="color_accent">#FF4081</color>
     <color name="color_accent2">#218380</color>
 </resources>

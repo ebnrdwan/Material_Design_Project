@@ -3,13 +3,10 @@
     android:layout_width="match_parent"
     app:layout_collapseMode="parallax"
     android:layout_height="wrap_content"
-    android:layout_marginBottom="4dp"
-    android:layout_marginLeft="4dp"
-    android:layout_marginRight="4dp"
-    android:layout_marginTop="4dp"
     android:clickable="true"
-    android:focusable="true"
+    android:layout_margin="4dp"
     android:elevation="4dp"
+    android:focusable="true"
     android:foreground="?selectableItemBackground">
 
     <LinearLayout
@@ -25,7 +22,7 @@
             android:layout_height="100dp"
             android:layout_gravity="center"
             android:scaleType="centerCrop"
-            android:layout_margin="4dp"
+
              />
 
         <TextView
